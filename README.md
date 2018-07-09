@@ -25,3 +25,19 @@ shaft alignment or imprecise rotor balancing.</p>
 3. 5v-2A power supply for Raspberry Pi
 
 
+## Block Diagram
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30443054/42444470-d1700d38-838d-11e8-8398-1aab4d62a9e1.png"/></p>
+  
+  
+## Connections
+
+|Raspberry Pi|ADXL345|
+|---|---|
+|Pin 1 - 3v3|Vcc|
+|Pin 3 - SDA1 I2C|SDA|
+|Pin 5 - SCL1 I2C|SCL|
+|Pin 9 - Ground|GND|
+
+
