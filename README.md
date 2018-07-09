@@ -28,7 +28,7 @@ shaft alignment or imprecise rotor balancing.</p>
 ## Block Diagram
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30443054/42444470-d1700d38-838d-11e8-8398-1aab4d62a9e1.png"/></p>
+  <img src="https://user-images.githubusercontent.com/30443054/42444876-ed620f2c-838e-11e8-8b3e-44d269cf327a.png"/></p>
   
   
 ## Connections
