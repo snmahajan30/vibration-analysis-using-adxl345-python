@@ -40,4 +40,10 @@ shaft alignment or imprecise rotor balancing.</p>
 |Pin 5 - SCL1 I2C|SCL|
 |Pin 9 - Ground|GND|
 
+## Working
 
+1. Connect the ADXL345 with Raspberry Pi.
+2. Mount the setup on the case of the bearing for which vibration analysis is required.
+3. Run the code named adxl345_final.py.
+4. 3 files will be obtained. Out of that copy the name of the .txt file without the .txt extension.
+5. Run plot.py and paste the filename copied in Step 4 when prompted.(Remember not to put the .txt extension)
